@@ -4,6 +4,8 @@
  * Zakhar Serkov <zakharserkov@me.com>
  */
 require 'config.php';
-require 'templates/functions.php';
+require 'template/functions.php';
+
+init ();
 
 // eof
